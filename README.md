@@ -22,7 +22,7 @@ You can install them using pip:
 ```bash
 pip install tensorflow numpy matplotlib pillow imageio
 
-# Usage
+## Usage
 
 a)Load and preprocess the dataset:
 
